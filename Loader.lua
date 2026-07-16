@@ -4,7 +4,7 @@
 ]]
 
 -- ⚠️ SUBSTITUA "SEU_USUARIO" pelo seu nome de usuário do GitHub
-local GITHUB_USER = "SEU_USUARIO"
+local GITHUB_USER = "capputtinno"
 local GITHUB_REPO = "ReignFallHub"
 local GITHUB_BRANCH = "main"
 
